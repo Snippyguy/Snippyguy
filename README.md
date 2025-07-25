@@ -2,8 +2,8 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h3 align="center">
-  Hello world! I'm Sayan Dey
+<h3 align="center" style="font-family: 'Fira Code', monospace; color:#00bfff;">
+  👋 Hello World! I'm <strong style="color:#ff6f61;">Sayan Dey</strong>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
