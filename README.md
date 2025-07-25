@@ -17,7 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=Snippyguy&color=brightgreen" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Snippyguy?label=Followers&color=brightgreen" />
   <img src="https://img.shields.io/github/stars/Snippyguy?label=Stars&color=brightgreen" />
-  <img src="https://img.shields.io/github/forks/Snippyguy?label=Forks&color=brightgreen" />
   <img src="https://img.shields.io/badge/Focus-SQL%20DBA-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-Bengali%20%7C%20English%20%7C%20Hindi-brightgreen" />
