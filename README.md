@@ -2,9 +2,17 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-### Hi there 👋
+<h3 align="center">
+  Hello world! I'm Sayan Dey
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-### My name is Sayan Dey
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=SQL%20Server%20DBA;Azure%20DBA;Data%20Analyst;Tableau%20Developer;Data%20Engineer;Passionate%20to%20learn%20DevOps;Feel%20free%20to%20connect%20%F0%9F%91%8B&center=true&width=440&height=45&font=Fira%20Code">
+  </a>
+</p>
+
 
 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐰𝐢𝐭𝐡 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐈𝐓 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐒𝐐𝐋 𝐒𝐞𝐫𝐯𝐞𝐫 𝐃𝐁𝐀, 𝐀𝐳𝐮𝐫𝐞 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐏𝐫𝐞𝐩 𝐚𝐧𝐝 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
 👋 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 GitHub 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! I'm passionate about leveraging data to drive informed decision-making and optimize business processes. With a robust background in SQL Server database administration, Azure Data Engineering, and proficiency in Tableau development, I specialize in transforming raw data into actionable insights.
