@@ -26,7 +26,7 @@
 
 ## <picture><img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/about_me.gif?raw=true" width="50px"></picture> About me
 
-<h3 align="center">
+<h3 align="center" style="color: #4b6cb7;">
   Data Maestro | SQL Server DBA | Tableau Storyteller & Tableau Prep Developer | Azure Cloud Alchemist
 </h3>
 <p align="center">
