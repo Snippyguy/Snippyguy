@@ -23,8 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
-  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/about_me.gif?raw=true" height="50px" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40px" />
+  &nbsp;&nbsp;
+  <b style="color: #00bfff; font-size: 18px;">About me</b>
+  &nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/about_me.gif?raw=true" height="40px" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
