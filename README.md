@@ -22,6 +22,14 @@
   <img src="https://img.shields.io/badge/Languages-Bengali%20%7C%20English%20%7C%20Hindi-brightgreen" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40px" />
+  &nbsp;&nbsp;
+  <b style="color: #00bfff; font-size: 18px;">About me</b>
+  &nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/about_me.gif?raw=true" width="50px" />
+</p>
+
 ## <picture><img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/about_me.gif?raw=true" width="50px"></picture> About me
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
