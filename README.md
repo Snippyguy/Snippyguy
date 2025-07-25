@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/Focus-SQL%20DBA-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-Bengali%20%7C%20English%20%7C%20Hindi-brightgreen" />
-  <a href="https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4">
-    <img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=flat" alt="WakaTime Stats" />
+  <a href="https://wakatime.com/@Snippyguy">
+    <img src="https://img.shields.io/badge/WakaTime-Tracking%20Active-brightgreen" alt="WakaTime" />
   </a>
 </p>
 
