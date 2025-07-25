@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=SQL%20Server%20DBA;Azure%20DBA;Data%20Analyst;Tableau%20Developer;Data%20Engineer;DevOps%20Explorer;Confusion%20is%20part%20of%20programming;Visit%20snippyguy.com%20for%20more%20%F0%9F%94%A5&center=true&width=500&height=45&font=Fira%20Code">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=SQL%20Server%20DBA;Azure%20DBA;Data%20Analyst;Tableau%20Developer;Data%20Engineer;DevOps%20Explorer;Confusion%20is%20part%20of%20programming;Happy%20Coding!%20👨‍💻;Feel%20free%20to%20reach%20out!%20📬;Visit%20snippyguy.com%20for%20more%20%F0%9F%94%A5&center=true&width=500&height=45&font=Fira%20Code">
   </a>
 </p>
 
