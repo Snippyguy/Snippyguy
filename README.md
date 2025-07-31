@@ -41,9 +41,6 @@
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="40" />
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Snippyguy&label=Profile%20views&color=0e75b6&style=flat" alt="Snippyguy" /> 
-</p>
 
 <img align="right" width="300px" alt="Snippyguy GIF" src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Right_Side.gif" />
 
