@@ -57,24 +57,17 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>💼 <b>As a SQL Server DBA</b>, I excel in designing, implementing, and maintaining database systems to ensure optimal performance, reliability, and security. From database design and configuration to performance tuning and troubleshooting, I'm adept at managing complex data environments with precision and efficiency.</p>
+<img align="right" alt="Sleeping GIF" height="140px" src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Sleeping.gif" />
 
-    <p>☁️ <i>In my role as an Azure Data Engineer</i>, I focus on building scalable, cloud-based solutions using <b>Azure Data Factory</b> and <b>Databricks</b>. I develop and optimize data pipelines and architectures to ensure efficient data processing and availability.</p>
+- 💼 <b>As a SQL Server DBA</b>, I excel in designing, implementing, and maintaining database systems to ensure optimal performance, reliability, and security. From database design and configuration to performance tuning and troubleshooting, I'm adept at managing complex data environments with precision and efficiency.
 
-    <p>📊 I'm also a skilled <b>Tableau Developer</b>, creating interactive, visually compelling dashboards and reports that empower stakeholders with meaningful insights for better decisions.</p>
+- ☁️ <i>In my role as an Azure Data Engineer</i>, I focus on building scalable, cloud-based solutions using <b>Azure Data Factory</b> and <b>Databricks</b>. I develop and optimize data pipelines and architectures to ensure efficient data processing and availability.
 
-    <p>🌍 <b>Domain Expertise:</b> BFSI, Retail, Energy & Resources, Tours, Travel & Hospitality — with global exposure to Australia, New Zealand, USA, Canada, UK, Switzerland, and the Netherlands.</p>
+- 📊 I'm also a skilled <b>Tableau Developer</b>, creating interactive, visually compelling dashboards and reports that empower stakeholders with meaningful insights for better decisions.
 
-    <p>🚀 Whether it’s optimizing database performance, architecting cloud data solutions, or crafting insightful visualizations, I'm committed to delivering excellence and data-driven success.</p>
-  </div>
+- 🌍 <b>Domain Expertise:</b> BFSI, Retail, Energy & Resources, Tours, Travel & Hospitality — with global exposure to Australia, New Zealand, USA, Canada, UK, Switzerland, and the Netherlands.
 
-  <div>
-    <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Sleeping.gif" alt="Sleeping GIF" height="200px" />
-  </div>
-</div>
-
+- 🚀 Whether it’s optimizing database performance, architecting cloud data solutions, or crafting insightful visualizations, I'm committed to delivering excellence and data-driven success.
 
 > 𝓛𝓮𝓽’𝓼 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝓪𝓷𝓭 𝓮𝔁𝓹𝓵𝓸𝓻𝓮 𝓸𝓹𝓹𝓸𝓻𝓽𝓾𝓷𝓲𝓽𝓲𝓮𝓼 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓸𝓷 𝓮𝔁𝓬𝓲𝓽𝓲𝓷𝓰 𝓭𝓪𝓽𝓪 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼! In my spare time I work on and play around in my home lab.
 
