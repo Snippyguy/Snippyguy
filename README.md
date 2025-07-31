@@ -58,14 +58,20 @@
 ---
 
 <div align="left">
-  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Sleeping.gif" width="150" style="float: left; margin-right: 15px;" />
-  <p>
+  <span>
+    <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Sleeping.gif" width="150" style="display:inline-block; vertical-align:top; margin-right:15px;" />
+  </span>
+  <span style="display:inline-block; max-width:75%; vertical-align:top;">
     💼 As a <b>SQL Server DBA</b>, I excel in designing, implementing, and maintaining database systems to ensure optimal performance, reliability, and security. From database design and configuration to performance tuning and troubleshooting, I'm adept at managing complex data environments with precision and efficiency.<br><br>
+
     ☁️ In my role as an <i>Azure Data Engineer</i>, I focus on building scalable, cloud-based solutions using <b>Azure Data Factory</b> & <b>Databricks</b>. I have experience in developing, managing, and optimizing data pipelines and architectures in the Azure environment, ensuring efficient data processing and availability for business use.<br><br>
+
     📊 I'm also a skilled <b>Tableau Developer</b>, adept at creating interactive and visually compelling dashboards and reports. I thrive on translating data into intuitive visualizations that empower stakeholders to extract meaningful insights and make data-driven decisions.<br><br>
+
     🌍 <b>Domain Expertise:</b> BFSI, Retail, Energy & Resources, Tours, Travel & Hospitality — with global exposure to markets in Australia, New Zealand, USA, Canada, UK, Switzerland, and the Netherlands.<br><br>
+
     🚀 Whether it’s optimizing database performance, architecting cloud data solutions, or crafting insightful visualizations, I'm committed to delivering excellence and driving business success through the power of data.
-  </p>
+  </span>
 </div>
  
 
