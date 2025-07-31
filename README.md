@@ -57,11 +57,21 @@
 
 ---
 
-💼 **As a 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿 𝗗𝗕𝗔**, I excel in designing, implementing, and maintaining database systems to ensure optimal performance, reliability, and security. From database design and configuration to performance tuning and troubleshooting, I'm adept at managing complex data environments with precision and efficiency.  
-☁️ **In my role as an 𝑨𝒛𝒖𝒓𝒆 𝑫𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓**, I focus on building scalable, cloud-based solutions using A🅩🅤🅡🅔 D🅐🅣🅐 F🅐🅒🅣🅞🅡🅨 & D🅐🅣🅐🅑🅡🅘🅒🅚🅢. I have experience in developing, managing, and optimizing data pipelines and architectures in the Azure environment, ensuring efficient data processing and availability for business use.  
-📊 **In addition to database management**, I'm a proficient 𝗧𝗮𝗯𝗹𝗲𝗮𝘂 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, adept at creating interactive and visually compelling dashboards and reports. I thrive on translating data into intuitive visualizations that empower stakeholders to extract meaningful insights and make data-driven decisions.  
-🌍 **Domain Expertise**: I have had the privilege of supporting projects across diverse domains including 𝑩𝑭𝑺𝑰, 𝑹𝒆𝒕𝒂𝒊𝒍, 𝑬𝒏𝒆𝒓𝒈𝒚 & 𝑹𝒆𝒔𝒐𝒖𝒓𝒄𝒆𝒔, 𝒂𝒏𝒅 𝑻𝒐𝒖𝒓𝒔, 𝑻𝒓𝒂𝒗𝒆𝒍 & 𝑯𝒐𝒔𝒑𝒊𝒕𝒂𝒍𝒊𝒕𝒚. My work spans global markets, including 𝘼𝙪𝙨𝙩𝙧𝙖𝙡𝙞𝙖, 𝙉𝙚𝙬 𝙕𝙚𝙖𝙡𝙖𝙣𝙙, 𝙐𝙎𝘼, 𝘾𝙖𝙣𝙖𝙙𝙖, 𝙐𝙆, 𝙎𝙬𝙞𝙩𝙯𝙚𝙧𝙡𝙖𝙣𝙙, 𝙖𝙣𝙙 𝙩𝙝𝙚 𝙉𝙚𝙩𝙝𝙚𝙧𝙡𝙖𝙣𝙙𝙨.  
-🚀 Whether it’s optimizing database performance, architecting cloud data solutions, or crafting insightful visualizations, I'm committed to delivering excellence and driving business success through the power of data.  
+<table>
+  <tr>
+    <td width="200px">
+      <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Sleeping.gif" width="180px"/>
+    </td>
+    <td>
+      💼 As a <b>𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿 𝗗𝗕𝗔</b>, I excel in designing, implementing, and maintaining database systems to ensure optimal performance, reliability, and security. From database design and configuration to performance tuning and troubleshooting, I'm adept at managing complex data environments with precision and efficiency. <br><br>
+      ☁️ In my role as an <i>𝑨𝒛𝒖𝒓𝒆 𝑫𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</i>, I focus on building scalable, cloud-based solutions using <b>A🅩🅤🅡🅔 D🅐🅣🅐 F🅐🅒🅣🅞🅡🅨</b> & <b>D🅐🅣🅐🅑🅡🅘🅒🅚🅢</b>. I have experience in developing, managing, and optimizing data pipelines and architectures in the Azure environment, ensuring efficient data processing and availability for business use. <br><br>
+      📊 I'm a proficient <b>𝗧𝗮𝗯𝗹𝗲𝗮𝘂 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</b>, adept at creating interactive and visually compelling dashboards and reports. I thrive on translating data into intuitive visualizations that empower stakeholders to extract meaningful insights and make data-driven decisions. <br><br>
+      🌍 <b>𝐃𝐨𝐦𝐚𝐢𝐧 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞:</b> BFSI, Retail, Energy & Resources, Tours, Travel & Hospitality — serving clients from Australia, New Zealand, USA, Canada, UK, Switzerland, and the Netherlands. <br><br>
+      🚀 Whether it’s optimizing database performance, architecting cloud data solutions, or crafting insightful visualizations, I'm committed to delivering excellence and driving business success through the power of data.
+    </td>
+  </tr>
+</table>
+ 
 
 > 𝓛𝓮𝓽’𝓼 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝓪𝓷𝓭 𝓮𝔁𝓹𝓵𝓸𝓻𝓮 𝓸𝓹𝓹𝓸𝓻𝓽𝓾𝓷𝓲𝓽𝓲𝓮𝓼 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓸𝓷 𝓮𝔁𝓬𝓲𝓽𝓲𝓷𝓰 𝓭𝓪𝓽𝓪 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼! In my spare time I work on and play around in my home lab.
 
