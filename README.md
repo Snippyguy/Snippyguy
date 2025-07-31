@@ -41,17 +41,33 @@
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="40" />
 </p>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Snippyguy&label=Profile%20views&color=0e75b6&style=flat" alt="Snippyguy" /> 
+</p>
 
+<img align="right" width="300px" alt="Snippyguy GIF" src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Right_Side.gif" />
 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-- 💼 As a 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿 𝗗𝗕𝗔, I excel in designing, implementing, and maintaining database systems to ensure optimal performance, reliability, and security. From database design and configuration to performance tuning and troubleshooting, I'm adept at managing complex data environments with precision and efficiency.
-- ☁️ In my role as an 𝑨𝒛𝒖𝒓𝒆 𝑫𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, I focus on building scalable, cloud-based solutions using A🅩🅤🅡🅔 D🅐🅣🅐 F🅐🅒🅣🅞🅡🅨 & D🅐🅣🅐🅑🅡🅘🅒🅚🅢. I have experience in developing, managing, and optimizing data pipelines and architectures in the Azure environment, ensuring efficient data processing and availability for business use.
-- 📊 In addition to database management, I'm a proficient 𝗧𝗮𝗯𝗹𝗲𝗮𝘂 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, adept at creating interactive and visually compelling dashboards and reports. I thrive on translating data into intuitive visualizations that empower stakeholders to extract meaningful insights and make data-driven decisions.
-- 🌍 𝐃𝐨𝐦𝐚𝐢𝐧 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞: I have had the privilege of supporting projects across diverse domains including 𝑩𝑭𝑺𝑰, 𝑹𝒆𝒕𝒂𝒊𝒍, 𝑬𝒏𝒆𝒓𝒈𝒚 & 𝑹𝒆𝒔𝒐𝒖𝒓𝒄𝒆𝒔, 𝒂𝒏𝒅 𝑻𝒐𝒖𝒓𝒔, 𝑻𝒓𝒂𝒗𝒆𝒍 & 𝑯𝒐𝒔𝒑𝒊𝒕𝒂𝒍𝒊𝒕𝒚. My work spans global markets, including 𝘼𝙪𝙨𝙩𝙧𝙖𝙡𝙞𝙖, 𝙉𝙚𝙬 𝙕𝙚𝙖𝙡𝙖𝙣𝙙, 𝙐𝙎𝘼, 𝘾𝙖𝙣𝙖𝙙𝙖, 𝙐𝙆, 𝙎𝙬𝙞𝙩𝙯𝙚𝙧𝙡𝙖𝙣𝙙, 𝙖𝙣𝙙 𝙩𝙝𝙚 𝙉𝙚𝙩𝙝𝙚𝙧𝙡𝙖𝙣𝙙𝙨.
-- 🚀 Whether it’s optimizing database performance, architecting cloud data solutions, or crafting insightful visualizations, I'm committed to delivering excellence and driving business success through the power of data.
+✔ Pronouns: ***He/His*** or ***TeamMaker*** 😉  
+✔ I’m currently Developing **SQL** DBA **COOKBOOK**  
+✔ I’m currently learning **DataBricks** & **DevOPS**  
+✔ I’m looking to collaborate with any **Tableau or DBA Projects**  
+✔ I’m looking for help for learning **DevOPS**  
+✔ I use to write code on [LeetCode](https://leetcode.com)  
+✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉  
+✔ Fun fact : *At the time of stress coding, I use to be in half sleeping mode*  
 
-𝓛𝓮𝓽’𝓼 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝓪𝓷𝓭 𝓮𝔁𝓹𝓵𝓸𝓻𝓮 𝓸𝓹𝓹𝓸𝓻𝓽𝓾𝓷𝓲𝓽𝓲𝓮𝓼 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓸𝓷 𝓮𝔁𝓬𝓲𝓽𝓲𝓷𝓰 𝓭𝓪𝓽𝓪 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼!
-In my spare time I work on and play around in my home lab.
+---
+
+💼 **As a 𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿 𝗗𝗕𝗔**, I excel in designing, implementing, and maintaining database systems to ensure optimal performance, reliability, and security. From database design and configuration to performance tuning and troubleshooting, I'm adept at managing complex data environments with precision and efficiency.  
+☁️ **In my role as an 𝑨𝒛𝒖𝒓𝒆 𝑫𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓**, I focus on building scalable, cloud-based solutions using A🅩🅤🅡🅔 D🅐🅣🅐 F🅐🅒🅣🅞🅡🅨 & D🅐🅣🅐🅑🅡🅘🅒🅚🅢. I have experience in developing, managing, and optimizing data pipelines and architectures in the Azure environment, ensuring efficient data processing and availability for business use.  
+📊 **In addition to database management**, I'm a proficient 𝗧𝗮𝗯𝗹𝗲𝗮𝘂 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, adept at creating interactive and visually compelling dashboards and reports. I thrive on translating data into intuitive visualizations that empower stakeholders to extract meaningful insights and make data-driven decisions.  
+🌍 **Domain Expertise**: I have had the privilege of supporting projects across diverse domains including 𝑩𝑭𝑺𝑰, 𝑹𝒆𝒕𝒂𝒊𝒍, 𝑬𝒏𝒆𝒓𝒈𝒚 & 𝑹𝒆𝒔𝒐𝒖𝒓𝒄𝒆𝒔, 𝒂𝒏𝒅 𝑻𝒐𝒖𝒓𝒔, 𝑻𝒓𝒂𝒗𝒆𝒍 & 𝑯𝒐𝒔𝒑𝒊𝒕𝒂𝒍𝒊𝒕𝒚. My work spans global markets, including 𝘼𝙪𝙨𝙩𝙧𝙖𝙡𝙞𝙖, 𝙉𝙚𝙬 𝙕𝙚𝙖𝙡𝙖𝙣𝙙, 𝙐𝙎𝘼, 𝘾𝙖𝙣𝙖𝙙𝙖, 𝙐𝙆, 𝙎𝙬𝙞𝙩𝙯𝙚𝙧𝙡𝙖𝙣𝙙, 𝙖𝙣𝙙 𝙩𝙝𝙚 𝙉𝙚𝙩𝙝𝙚𝙧𝙡𝙖𝙣𝙙𝙨.  
+🚀 Whether it’s optimizing database performance, architecting cloud data solutions, or crafting insightful visualizations, I'm committed to delivering excellence and driving business success through the power of data.  
+
+> 𝓛𝓮𝓽’𝓼 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝓪𝓷𝓭 𝓮𝔁𝓹𝓵𝓸𝓻𝓮 𝓸𝓹𝓹𝓸𝓻𝓽𝓾𝓷𝓲𝓽𝓲𝓮𝓼 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓸𝓷 𝓮𝔁𝓬𝓲𝓽𝓲𝓷𝓰 𝓭𝓪𝓽𝓪 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼! In my spare time I work on and play around in my home lab.
+
 
 
 #### &#x1f4c8; My GitHub Stats
