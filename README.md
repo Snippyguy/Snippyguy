@@ -78,9 +78,9 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
-#### &#x1f4c8; My GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+#### &#x1f4c8; My GitHub Stats
+
 <a href="https://snippyguy.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snippyguy&show_icons=true&line_height=33&count_private=true&theme=midnight-purple" alt="Snippyguy's GitHub Stats" />
 </a>
