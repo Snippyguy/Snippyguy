@@ -9,11 +9,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 👈 allow pushing to branches
+
     steps:
-      # Checkout repo
       - uses: actions/checkout@v3
 
-      # Generate the snake (updated maintained version)
+      # Generate the snake (SVG only version)
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Snippyguy
@@ -21,8 +23,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the generated files to output branch
-      - name: Push changes
+      # Publish to the output branch
+      - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
