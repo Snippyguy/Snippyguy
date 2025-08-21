@@ -27,7 +27,10 @@ jobs:
             dist/github-contribution-grid-snake-dark.gif?palette=github-dark
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#a6c8ff,#7da8ff,#5b90f0,#4478d1
+
+            # 👇 custom lighter "dark" palette
+            dist/github-snake-lighter-dark.svg?palette=github-dark&color_snake=green&color_dots=#c6f6d5,#9ae6b4,#68d391,#48bb78,#38a169
 
       # Publish the generated files to the `output` branch
       - name: Push snake files to output branch
