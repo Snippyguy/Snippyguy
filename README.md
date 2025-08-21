@@ -100,7 +100,7 @@
 <h2 align="center">🐍 Watch the Snake eat my Contributions 🐍</h2>
 
 <p align="center">
-  <img src="https://github.com/Snippyguy/Snippyguy/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/output/github-contribution-grid-snake-dark.gif" alt="snake gif"/>
 </p>
 
 
