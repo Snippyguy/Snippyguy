@@ -10,20 +10,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # 👈 allow pushing to branches
+      contents: write   # 👈 allows pushing to branches
 
     steps:
+      # Checkout repository
       - uses: actions/checkout@v3
 
-      # Generate the snake (SVG only version)
-      - uses: Platane/snk/svg-only@v3
+      # Generate the snake (new maintained action, supports svg + gif)
+      - uses: Platane/snk@v3
         with:
           github_user_name: Snippyguy
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
 
-      # Publish to the output branch
+      # Publish the generated files to the `output` branch
       - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
