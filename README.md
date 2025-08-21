@@ -96,7 +96,13 @@
 <br/>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Snippyguy&theme=react-dark&hide_border=true&area=true)
-![snake gif](https://github.com/Snippyguy/Snippyguy/blob/output/github-contribution-grid-snake.gif)
+
+<h2 align="center">🐍 Watch the Snake eat my Contributions 🐍</h2>
+
+<p align="center">
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/>
+</p>
+
 
 ---
 
