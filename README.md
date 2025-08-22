@@ -81,23 +81,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 #### &#x1f4c8; My GitHub Stats
 
-<p align="center">
+<div align="center">
   <a href="https://snippyguy.com">
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Snippyguy&show_icons=true&count_private=true&theme=midnight-purple" alt="Snippyguy's GitHub Stats" />
   </a>
   <a href="https://snippyguy.com">
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snippyguy&hide=cmake&langs_count=4&layout=donut&theme=midnight-purple" />
   </a>
-</p>
-
-<p align="center">
+  <br/>
   <a href="https://snippyguy.com">
     <img height="180em" width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Snippyguy&theme=midnight-purple" />
   </a>
   <a href="https://snippyguy.com">
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snippyguy&layout=compact&langs_count=8&theme=midnight-purple" />
   </a>
-</p>
+</div>
 
 <br/>
 
