@@ -99,7 +99,7 @@
 
 <br/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snippyguy&bg_color=000000&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snippyguy&bg_color=000000&color=9b4dff&line=9b4dff&point=ffffff&area=true&hide_border=true)
 
 <h2 align="center">🐍 Watch the Snake eat my Contributions 🐍</h2>
 
