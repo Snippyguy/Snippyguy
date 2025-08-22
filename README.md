@@ -82,15 +82,19 @@
 #### &#x1f4c8; My GitHub Stats
 
 <a href="https://snippyguy.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snippyguy&show_icons=true&line_height=33&count_private=true&theme=midnight-purple" alt="Snippyguy's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snippyguy&show_icons=true&count_private=true&theme=midnight-purple" alt="Snippyguy's GitHub Stats" />
 </a>
 
 <a href="https://snippyguy.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snippyguy&&hide=cmake&langs_count=4&line_height=35&theme=midnight-purple&layout=donut" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snippyguy&layout=compact&langs_count=8&theme=midnight-purple" />
 </a>
 
 <a href="https://snippyguy.com">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Snippyguy&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snippyguy&hide=cmake&langs_count=4&layout=donut&theme=midnight-purple" />
+</a>
+
+<a href="https://snippyguy.com">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Snippyguy&theme=midnight-purple" />
 </a>
 
 <br/>
