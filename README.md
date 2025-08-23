@@ -82,23 +82,20 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-#### 👨‍💻 Programming & Scripting
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=database&logoColor=336791)&nbsp;
-![T-SQL](https://img.shields.io/badge/-T--SQL-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)  
+#### 👨‍💻 Programming & Scripting Languages  
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/c-svgrepo-com.svg" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/sql-database-sql-azure-svgrepo-com.svg" alt="SQL / T-SQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/python-svgrepo-com.svg" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/ruby-svgrepo-com.svg" alt="R" width="40" height="40"/>
 
-#### 📊 Data Visualization
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=E97627)&nbsp;
-![Tableau Prep](https://img.shields.io/badge/-Tableau%20Prep-05122A?style=flat&logo=tableau&logoColor=E97627)&nbsp;
-![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi&logoColor=F2C811)  
+#### 📊 BI & Visualization  
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/tableau-icon-svgrepo-com.svg" alt="Tableau" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/03332-icon-service-Power-BI-Embedded.svg" alt="Power BI" width="40" height="40"/>  
 
-#### ☁️ Cloud & Data Engineering
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=0089D6)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
-![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake&logoColor=29B5E8)&nbsp;
-![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks&logoColor=FF3621)  
+#### ☁️ Cloud Platforms  
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/aws-svgrepo-com.svg" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/azure-icon-svgrepo-com.svg" alt="Azure" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/google-cloud-svgrepo-com.svg" alt="Google Cloud" width="40" height="40"/>
 
 #### 🗄️ Databases  
 <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/microsoft-sql-server-logo-svgrepo-com.svg" alt="SQL Server" width="40" height="40"/>&nbsp;
@@ -117,13 +114,21 @@
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0079BF)  
 
-#### 🎨 Design & IDEs
-![Adobe](https://img.shields.io/badge/-Adobe%20Suite-05122A?style=flat&logo=adobe-creative-cloud)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
-![SSMS](https://img.shields.io/badge/-SSMS-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
-![Notepad++](https://img.shields.io/badge/-Notepad++-05122A?style=flat&logo=notepadplusplus&logoColor=90E59A)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)  
+#### 🎨 Design Tools  
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/adobe-svgrepo-com.svg" alt="Adobe Suite" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/adobe-photoshop-svgrepo-com.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/adobe-lightroom-svgrepo-com.svg" alt="Lightroom" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/adobe-illustrator-svgrepo-com.svg" alt="Illustrator" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/figma-svgrepo-com.svg" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/canva-svgrepo-com.svg" alt="Canva" width="40" height="40"/>
+
+#### 🤝 Version Controls 
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/git-icon-svgrepo-com.svg" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/github-icon-svgrepo-com.svg" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/gitlab-svgrepo-com.svg" alt="GitLab" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/confluence-svgrepo-com.svg" alt="Confluence" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/slack-svgrepo-com.svg" alt="Slack" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/trello-svgrepo-com.svg" alt="Trello" width="40" height="40"/>
 
 #### 🛡️ Ticketing & Monitoring
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-05122A?style=flat&logo=servicenow&logoColor=13A564)&nbsp;
