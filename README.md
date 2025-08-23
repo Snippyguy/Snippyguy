@@ -104,15 +104,22 @@
 <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/mysql-logo-svgrepo-com.svg" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/MongoDB.png" alt="MongoDB" width="40" height="40"/>
 
-#### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence&logoColor=172B4D)&nbsp;
-![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack&logoColor=4A154B)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0079BF)  
+#### ⚙️ Data Engineering and DevOps  
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/00606-icon-service-Azure-Synapse-Analytics.svg" alt="Azure Synapse" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/10261-icon-service-Azure-DevOps.svg" alt="Azure DevOps" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/10787-icon-service-Azure-Databricks.svg" alt="Azure Databricks" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Data-Factory.svg" alt="Azure Data Factory" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Fabric.png" alt="Microsoft Fabric" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/aws-s3-svgrepo-com.svg" alt="AWS S3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/docker-icon-svgrepo-com.svg" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/kubernetes-svgrepo-com.svg" alt="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/snowflake-svgrepo-com.svg" alt="Snowflake" width="40" height="40"/>
+
+#### 🛠️ Tools/IDE  
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/SSMS.png" alt="SSMS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/vs-code-svgrepo-com.svg" alt="VS Code" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/visual-studio-svgrepo-com.svg" alt="Visual Studio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/notepad%2B%2B.png" alt="Notepad++" width="40" height="40"/>
 
 #### 🎨 Design Tools  
 <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/adobe-svgrepo-com.svg" alt="Adobe Suite" width="40" height="40"/>&nbsp;
@@ -130,12 +137,16 @@
 <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/slack-svgrepo-com.svg" alt="Slack" width="40" height="40"/>&nbsp;
 <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/trello-svgrepo-com.svg" alt="Trello" width="40" height="40"/>
 
-#### 🛡️ Ticketing & Monitoring
-![ServiceNow](https://img.shields.io/badge/-ServiceNow-05122A?style=flat&logo=servicenow&logoColor=13A564)&nbsp;
-![Site24x7](https://img.shields.io/badge/-Site24x7-05122A?style=flat&logo=site24x7&logoColor=43B02A)&nbsp;
-![SolarWinds](https://img.shields.io/badge/-SolarWinds-05122A?style=flat&logo=solarwinds&logoColor=F68B1F)&nbsp;
-![Nagios](https://img.shields.io/badge/-Nagios-05122A?style=flat&logo=nagios&logoColor=000)&nbsp;
-![OpManager](https://img.shields.io/badge/-OpManager-05122A?style=flat&logo=manageengine&logoColor=FFCC00)  
+#### 🎫 Ticketing Tools  
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/ServiceNow_logo.svg.png" alt="ServiceNow" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Service%20desk.png" alt="Service Desk" width="40" height="40"/>
+
+#### 📊 Database Monitoring Tools  
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Solarwind.png" alt="SolarWinds" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Nagios.png" alt="Nagios" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/OpManager.png" alt="OpManager" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/site%2024X7.png" alt="Site24x7" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/dynatrace-svgrepo-com.svg" alt="Dynatrace" width="40" height="40"/>
 
 #### 💻 Operating Systems  
 <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/windows-applications-svgrepo-com.svg" alt="Windows" width="40" height="40"/>&nbsp;
@@ -143,6 +154,7 @@
 <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/linux-tux-svgrepo-com.svg" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/redhat-icon-svgrepo-com.svg" alt="RedHat" width="40" height="40"/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 #### &#x1f4c8; My GitHub Stats
 
 <div align="center">
