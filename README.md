@@ -82,64 +82,99 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-#### 🖥️ Programming & Scripting Languages  
-&nbsp;<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/c-svgrepo-com.svg" alt="C" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/sql-database-sql-azure-svgrepo-com.svg" alt="SQL / T-SQL" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/python-svgrepo-com.svg" alt="Python" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/ruby-svgrepo-com.svg" alt="R" width="40" height="40"/>
+<h4 style="display: flex; align-items: center;">
+  Programming & Scripting Languages&nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/c-svgrepo-com.svg" alt="C" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/sql-database-sql-azure-svgrepo-com.svg" alt="SQL / T-SQL" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/python-svgrepo-com.svg" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/ruby-svgrepo-com.svg" alt="R" width="40" height="40"/>
+</h4>
 
-#### 📊 BI & Visualization  
-&nbsp;<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/tableau-icon-svgrepo-com.svg" alt="Tableau" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/03332-icon-service-Power-BI-Embedded.svg" alt="Power BI" width="40" height="40"/>
+<h4 style="display: flex; align-items: center;">
+  BI & Visualization&nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/tableau-icon-svgrepo-com.svg" alt="Tableau" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/03332-icon-service-Power-BI-Embedded.svg" alt="Power BI" width="40" height="40"/>
+</h4>
 
-#### ☁️ Cloud Platforms  
-&nbsp;<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/aws-svgrepo-com.svg" alt="AWS" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/azure-icon-svgrepo-com.svg" alt="Azure" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/google-cloud-svgrepo-com.svg" alt="Google Cloud" width="40" height="40"/>
+<h4 style="display: flex; align-items: center;">
+  Cloud Platforms&nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/aws-svgrepo-com.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/azure-icon-svgrepo-com.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/google-cloud-svgrepo-com.svg" alt="Google Cloud" width="40" height="40"/>
+</h4>
 
-#### 🗄️ Databases  
-&nbsp;<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/microsoft-sql-server-logo-svgrepo-com.svg" alt="SQL Server" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/oracle-6-logo-svgrepo-com.svg" alt="Oracle" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Postgres.png" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/mysql-logo-svgrepo-com.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/MongoDB.png" alt="MongoDB" width="40" height="40"/>
+<h4 style="display: flex; align-items: center;">
+  Databases&nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/microsoft-sql-server-logo-svgrepo-com.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/oracle-6-logo-svgrepo-com.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Postgres.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/mysql-logo-svgrepo-com.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/MongoDB.png" alt="MongoDB" width="40" height="40"/>
+</h4>
 
-#### ⚙️ Data Engineering & DevOps  
-&nbsp;<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/00606-icon-service-Azure-Synapse-Analytics.svg" alt="Azure Synapse" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/10261-icon-service-Azure-DevOps.svg" alt="Azure DevOps" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/10787-icon-service-Azure-Databricks.svg" alt="Azure Databricks" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Data-Factory.svg" alt="Azure Data Factory" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Fabric.png" alt="Microsoft Fabric" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/aws-s3-svgrepo-com.svg" alt="AWS S3" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/docker-icon-svgrepo-com.svg" alt="Docker" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/kubernetes-svgrepo-com.svg" alt="Kubernetes" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/snowflake-svgrepo-com.svg" alt="Snowflake" width="40" height="40"/>
+<h4 style="display: flex; align-items: center;">
+  Data Engineering and DevOps&nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/00606-icon-service-Azure-Synapse-Analytics.svg" alt="Azure Synapse" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/10261-icon-service-Azure-DevOps.svg" alt="Azure DevOps" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/10787-icon-service-Azure-Databricks.svg" alt="Azure Databricks" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Data-Factory.svg" alt="Azure Data Factory" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Fabric.png" alt="Microsoft Fabric" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/aws-s3-svgrepo-com.svg" alt="AWS S3" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/docker-icon-svgrepo-com.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/kubernetes-svgrepo-com.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/snowflake-svgrepo-com.svg" alt="Snowflake" width="40" height="40"/>
+</h4>
 
-#### 🛠️ Tools / IDE  
-&nbsp;<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/SSMS.png" alt="SSMS" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/vs-code-svgrepo-com.svg" alt="VS Code" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/visual-studio-svgrepo-com.svg" alt="Visual Studio" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/notepad%2B%2B.png" alt="Notepad++" width="40" height="40"/>
+<h4 style="display: flex; align-items: center;">
+  Tools/IDE&nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/SSMS.png" alt="SSMS" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/vs-code-svgrepo-com.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/visual-studio-svgrepo-com.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/notepad%2B%2B.png" alt="Notepad++" width="40" height="40"/>
+</h4>
 
-#### 🎨 Design Tools  
-&nbsp;<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/figma-svgrepo-com.svg" alt="Figma" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/canva-svgrepo-com.svg" alt="Canva" width="40" height="40"/>
+<h4 style="display: flex; align-items: center;">
+  Design Tools&nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/adobe-svgrepo-com.svg" alt="Adobe Suite" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/adobe-photoshop-svgrepo-com.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/adobe-lightroom-svgrepo-com.svg" alt="Lightroom" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/adobe-illustrator-svgrepo-com.svg" alt="Illustrator" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/figma-svgrepo-com.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/canva-svgrepo-com.svg" alt="Canva" width="40" height="40"/>
+</h4>
 
-#### 🔄 Version Control  
-&nbsp;<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/github-142-svgrepo-com.svg" alt="GitHub" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/gitlab-svgrepo-com.svg" alt="GitLab" width="40" height="40"/>
+<h4 style="display: flex; align-items: center;">
+  Version Controls&nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/git-icon-svgrepo-com.svg" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/github-icon-svgrepo-com.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/gitlab-svgrepo-com.svg" alt="GitLab" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/confluence-svgrepo-com.svg" alt="Confluence" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/slack-svgrepo-com.svg" alt="Slack" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/trello-svgrepo-com.svg" alt="Trello" width="40" height="40"/>
+</h4>
 
-#### 🎫 Ticketing Tools  
-&nbsp;<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/ServiceNow_logo.svg.png" alt="ServiceNow" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Service%20desk.png" alt="Service Desk" width="40" height="40"/>
+<h4 style="display: flex; align-items: center;">
+  Ticketing Tools&nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/ServiceNow_logo.svg.png" alt="ServiceNow" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Service%20desk.png" alt="Service Desk" width="40" height="40"/>
+</h4>
 
-#### 📈 Monitoring Tools  
-&nbsp;<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/dynatrace-svgrepo-com.svg" alt="Dynatrace" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/grafana-svgrepo-com.svg" alt="Grafana" width="40" height="40"/>
+<h4 style="display: flex; align-items: center;">
+  Database Monitoring Tools&nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Solarwind.png" alt="SolarWinds" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Nagios.png" alt="Nagios" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/OpManager.png" alt="OpManager" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/site%2024X7.png" alt="Site24x7" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/dynatrace-svgrepo-com.svg" alt="Dynatrace" width="40" height="40"/>
+</h4>
 
-#### 💻 Operating Systems  
-&nbsp;<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Windows.png" alt="Windows" width="40" height="40"/>
-<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/linux-svgrepo-com.svg" alt="Linux" width="40" height="40"/>
+<h4 style="display: flex; align-items: center;">
+  Operating Systems&nbsp;&nbsp;
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/windows-applications-svgrepo-com.svg" alt="Windows" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/ubuntu-svgrepo-com.svg" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/linux-tux-svgrepo-com.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/redhat-icon-svgrepo-com.svg" alt="RedHat" width="40" height="40"/>
+</h4>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 #### &#x1f4c8; My GitHub Stats
