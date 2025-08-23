@@ -132,10 +132,11 @@
 ![Nagios](https://img.shields.io/badge/-Nagios-05122A?style=flat&logo=nagios&logoColor=000)&nbsp;
 ![OpManager](https://img.shields.io/badge/-OpManager-05122A?style=flat&logo=manageengine&logoColor=FFCC00)  
 
-#### 💻 Operating Systems
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D6)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=FFFFFF)
+#### 💻 Operating Systems  
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/windows-applications-svgrepo-com.svg" alt="Windows" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/ubuntu-svgrepo-com.svg" alt="Ubuntu" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/linux-tux-svgrepo-com.svg" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/redhat-icon-svgrepo-com.svg" alt="RedHat" width="40" height="40"/>
 
 #### &#x1f4c8; My GitHub Stats
 
