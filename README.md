@@ -100,12 +100,12 @@
 ![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake&logoColor=29B5E8)&nbsp;
 ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks&logoColor=FF3621)  
 
-#### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle&logoColor=F80000)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)  
+#### 🗄️ Databases  
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/microsoft-sql-server-logo-svgrepo-com.svg" alt="SQL Server" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/oracle-6-logo-svgrepo-com.svg" alt="Oracle" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/Postgres.png" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/mysql-logo-svgrepo-com.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Snippyguy/Snippyguy/blob/main/Image/MongoDB.png" alt="MongoDB" width="40" height="40"/>
 
 #### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
