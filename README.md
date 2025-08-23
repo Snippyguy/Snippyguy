@@ -80,58 +80,62 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### 💼 Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> SQL Server DBA | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="30"/> Tableau Developer | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/> Data Engineer | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> DevOps Practician
+### 🛠 &nbsp;Tech Stack  
 
-### 🛠 Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> C | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30"/> R | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="30"/> Tableau / Tableau Prep | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30"/> PowerBI | 
-Snowflake | Databricks | Docker | Kubernetes  
+#### 👨‍💻 Programming & Scripting
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=database&logoColor=336791)&nbsp;
+![T-SQL](https://img.shields.io/badge/-T--SQL-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)  
 
-### 🗄️ Database
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> SQL Server | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30"/> Oracle | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB  
+#### 📊 Data Visualization
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=E97627)&nbsp;
+![Tableau Prep](https://img.shields.io/badge/-Tableau%20Prep-05122A?style=flat&logo=tableau&logoColor=E97627)&nbsp;
+![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi&logoColor=F2C811)  
 
+#### ☁️ Cloud & Data Engineering
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=0089D6)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
+![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake&logoColor=29B5E8)&nbsp;
+![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks&logoColor=FF3621)  
 
-### ☁️ Cloud
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/> Azure | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> AWS  
+#### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle&logoColor=F80000)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)  
 
-### 🔧 Version Control & Collaboration
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub | 
-Confluence | Slack | Notion | Trello  
+#### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence&logoColor=172B4D)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack&logoColor=4A154B)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0079BF)  
 
+#### 🎨 Design & IDEs
+![Adobe](https://img.shields.io/badge/-Adobe%20Suite-05122A?style=flat&logo=adobe-creative-cloud)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
+![SSMS](https://img.shields.io/badge/-SSMS-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
+![Notepad++](https://img.shields.io/badge/-Notepad++-05122A?style=flat&logo=notepadplusplus&logoColor=90E59A)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)  
 
-### 🎨 Design
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" width="30"/> Adobe | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30"/> Canva  
+#### 🛡️ Ticketing & Monitoring
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-05122A?style=flat&logo=servicenow&logoColor=13A564)&nbsp;
+![Site24x7](https://img.shields.io/badge/-Site24x7-05122A?style=flat&logo=site24x7&logoColor=43B02A)&nbsp;
+![SolarWinds](https://img.shields.io/badge/-SolarWinds-05122A?style=flat&logo=solarwinds&logoColor=F68B1F)&nbsp;
+![Nagios](https://img.shields.io/badge/-Nagios-05122A?style=flat&logo=nagios&logoColor=000)&nbsp;
+![OpManager](https://img.shields.io/badge/-OpManager-05122A?style=flat&logo=manageengine&logoColor=FFCC00)  
 
-
-### 🖥 Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> VS Code | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30"/> Visual Studio | 
-SSMS | Notepad++  
-
-### 🎫 Ticketing Tools
-ServiceNow  
-
-### 📊 Database Monitoring
-opManager | Nagios | Site 24X7 | SolarWinds DPA  
-
-### 💻 Operating Systems
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30"/> Windows | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/> Linux | 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="30"/> MacOS  
+#### 💻 Operating Systems
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D6)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=FFFFFF)
 
 #### &#x1f4c8; My GitHub Stats
 
