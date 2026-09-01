@@ -237,7 +237,10 @@
 
 #### Recently updated
 
-
+<div align="center">
+Crafted with ☕, T-SQL, and a little bit of panic-recovery experience
+<img src="Image/Snippyguy%20Logo%20copy%202.png" alt="SnippyGuy" width="700"/>
+</div> ```
 
 ---
 <div align="center">
