@@ -31,7 +31,7 @@
 </h3>
 
 <p align="center">
-𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐰𝐢𝐭𝐡 **6+** 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐈𝐓 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐒𝐐𝐋 𝐒𝐞𝐫𝐯𝐞𝐫 𝐃𝐁𝐀, 𝐀𝐳𝐮𝐫𝐞 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐏𝐫𝐞𝐩 𝐚𝐧𝐝 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 <br>
+𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐰𝐢𝐭𝐡 𝟔+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐈𝐓 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐒𝐐𝐋 𝐒𝐞𝐫𝐯𝐞𝐫 𝐃𝐁𝐀, 𝐀𝐳𝐮𝐫𝐞 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐏𝐫𝐞𝐩 𝐚𝐧𝐝 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 <br>
 👋 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 GitHub 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! I'm passionate about leveraging data to drive informed decision-making and optimize business processes. With a robust background in SQL Server database administration, Azure Data Engineering, and proficiency in Tableau development, I specialize in transforming raw data into actionable insights.
 </p>
 
