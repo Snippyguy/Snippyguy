@@ -240,9 +240,9 @@
 <div align="center">
 Crafted with ☕, T-SQL, and a little bit of panic-recovery experience
 <img src="Image/Snippyguy%20Logo%20copy%202.png" alt="SnippyGuy" width="700"/>
-</div> ```
+</div> 
 
----
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer" />
 </div>
